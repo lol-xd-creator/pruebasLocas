@@ -52,3 +52,4 @@ console.log(`resultado`, r) // asi printeamos todo el objeto
 // console.log(quienEsMayor(persona1,persona2).nombre + " es mayor")
 
 
+console.log("ayeeeieieieiieiei")
