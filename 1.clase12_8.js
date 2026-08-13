@@ -54,4 +54,4 @@ console.log(`resultado`, r) // asi printeamos todo el objeto
 
 console.log("ayeeeieieieiieiei")
 
-console.log("opaa")
+
