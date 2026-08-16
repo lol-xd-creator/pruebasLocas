@@ -26,3 +26,5 @@ const persona = {
 }
 
 persona.mostrarTablaDeInformacion();
+
+//lol
