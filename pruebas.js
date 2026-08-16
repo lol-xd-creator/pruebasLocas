@@ -28,3 +28,5 @@ const persona = {
 persona.mostrarTablaDeInformacion();
 
 //lol
+
+persona.mostrarTablaDeInformacion();
