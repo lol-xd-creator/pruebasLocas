@@ -11,10 +11,10 @@ for (const item of lista) {
 console.table(lista);
 
 const persona = {
-    nombre: "pepe",
-    edad: 777,
+    nombre: "pupino",
+    edad: 111,
     saludar() {
-        return `hola soy ${this.nombre}`;
+        return `hola soy ${this.nombre} oaaa`;
     },
     mostrarTablaDeInformacion() {
         liste = []
