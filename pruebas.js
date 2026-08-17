@@ -30,3 +30,5 @@ persona.mostrarTablaDeInformacion();
 //lol
 
 persona.mostrarTablaDeInformacion();
+
+console.log("aca habra un conflicto");
