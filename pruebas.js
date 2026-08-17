@@ -31,4 +31,4 @@ persona.mostrarTablaDeInformacion();
 
 persona.mostrarTablaDeInformacion();
 
-console.log("aca habra un conflicto");
+console.log("conflicto browser!");
