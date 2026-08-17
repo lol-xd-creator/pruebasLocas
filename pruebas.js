@@ -11,15 +11,15 @@ for (const item of lista) {
 console.table(lista);
 
 const persona = {
-    nombre: "pepe",
-    edad: 777,
+    nombre: "juanchi",
+    edad: 666,
     saludar() {
-        return `hola soy ${this.nombre}`;
+        return `hola no soy ${this.nombre}`;
     },
     mostrarTablaDeInformacion() {
         liste = []
         for (const [clave, valor] in Object.values(persona)) {
-            liste.push(`${clave} = ${valor}`);
+            liste.push(`${clave} = ${valor} jojo`);
         }
         console.table(liste);
     }
